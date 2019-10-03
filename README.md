@@ -1,6 +1,6 @@
 # nasabah
 
-crud
+project: crud,jpa,jwt,spring boot, spring security
 setelah update saya sudah test di postman
 
 generate token method post http://localhost:8080/login/authenticate body: { "username":"user", "password":"password" }
